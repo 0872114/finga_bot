@@ -1,2 +1,2 @@
 python-telegram-bot==13.14
-pillow
+pillow==11.2.1
